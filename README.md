@@ -24,8 +24,8 @@ A business of drinks (soft drinks and coffee) and snacks in Rwanda wants to anal
    ### all above queris and results are included in document uploaded.
 
 ## Results analysis   
-1.  Descriptive – What happened? (top product, trending products).
-2.  Diagnostic: Why it happened (customer preferences, promotions).
+1.  Descriptive – What happened? (conducting reseach on top product, trending products).
+2.  Diagnostic: Why it happened ( to get customer preferences, promotions).
 3.  Prescriptive: What to do next (focus marketing on best-sellers, reward top spenders).
 
 ## References
