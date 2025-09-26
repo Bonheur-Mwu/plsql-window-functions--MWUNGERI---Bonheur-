@@ -24,9 +24,13 @@ A business of drinks (soft drinks and coffee) and snacks in Rwanda wants to anal
    ### all above queris and results are included in document uploaded.
 
 ## Results analysis   
-1.  Descriptive – What happened? (conducting reseach on top product, trending products).
-2.  Diagnostic: Why it happened ( to get customer preferences, promotions).
-3.  Prescriptive: What to do next (focus marketing on best-sellers, reward top spenders).
+1.  Descriptive – What happened?
+      Sales increased steadily from January to June. Soft drinks led in Kigali, while coffee and tea were top in other regions. A few loyal customers (top quartile) generated most revenue.
+
+2.  Diagnostic: Why it happened?
+      Urban demand explains soft drink dominance in Kigali, while cultural habits drive coffee/tea sales elsewhere. Growth spikes, especially in May, were likely due to promotions or seasonal demand.
+3.  Prescriptive: What to do next?
+       Urban demand explains soft drink dominance in Kigali, while cultural habits drive coffee/tea sales elsewhere. Growth spikes, especially in May, were likely due to promotions or seasonal demand.
 
 ## References
 i. W3schools
